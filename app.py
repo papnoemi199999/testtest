@@ -1,6 +1,8 @@
 import streamlit as st
 
 
+
+st.set_page_config(page_title="Test Title", layout="centered")
 st.title("Feedback pentru cursuri")
 st.write("Completează formularul de mai jos pentru a ne trimite părerea ta.")
 
